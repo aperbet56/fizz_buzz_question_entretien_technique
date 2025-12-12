@@ -17,3 +17,4 @@ Afficher les nombres de 1 à n (ou les stocker dans un tableau).
 ## Solutions
 
 - La solution numéro 1 se trouve dans le fichier script.js.
+- La solution numéro 1 se trouve dans le fichier script2.js.
