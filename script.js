@@ -16,7 +16,7 @@ Afficher les nombres de 1 à n (ou les stocker dans un tableau).
 const fizzBuzz = (n) => {
   // Création d'un tableau vide result
   const result = [];
-  // boucle for qui va parcourir n
+  // Boucle for
   for (let i = 1; i <= n; i++) {
     // Condition if... else if... else
     if (i % 3 === 0 && i % 5 === 0) {
@@ -36,7 +36,7 @@ const fizzBuzz = (n) => {
   return result; // Retourne le tableau avec les diférentes valeurs
 };
 
-const n = 15; // n = nombre de 1 à 15 compris
+const n = 15; // Création de la constante n
 
 const result = fizzBuzz(n); // Appel de la fonction fizzBuzz(n)
 
